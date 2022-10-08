@@ -1,0 +1,9 @@
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a9a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a8a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a7a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a6a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a5a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a4a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a3a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a2a
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/a1a
