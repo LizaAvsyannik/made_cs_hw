@@ -1,4 +1,5 @@
 #!/bin/bash
+# add comment at master
 if [ $# -eq 0 ] || [ $# -gt 1 ]
 then
     echo "Incorrect number of arguments"
